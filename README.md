@@ -251,18 +251,6 @@ end)
 
 ---
 
-## Installation pour les développeurs
-
-1. Installe [Roblox Studio](https://create.roblox.com).
-2. Récupère le projet :
-   ```bash
-   git clone https://github.com/[ton-pseudo]/mineblock-rng.git
-   ```
-3. Ouvre le projet dans Roblox Studio.
-4. Clique sur **Play** pour tester.
-
----
-
 ## FAQ
 
 **Qu'est-ce qu'un jeu bac à sable ?**
