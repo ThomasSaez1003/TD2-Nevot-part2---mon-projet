@@ -7,8 +7,6 @@
 ![Genre](https://img.shields.io/badge/genre-bac%20%C3%A0%20sable%20%2B%20RNG-green)
 ![Statut](https://img.shields.io/badge/statut-en%20d%C3%A9veloppement-orange)
 
-![Capture du jeu](capture.png)
-
 ---
 
 ## Sommaire
