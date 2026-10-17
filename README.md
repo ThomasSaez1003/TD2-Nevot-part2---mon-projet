@@ -24,10 +24,9 @@
 11. [Pour tous les joueurs](#pour-tous-les-joueurs)
 12. [Sous le capot](#sous-le-capot)
 13. [Avancement du projet](#avancement-du-projet)
-14. [Installation pour les développeurs](#installation-pour-les-développeurs)
-15. [FAQ](#faq)
-16. [Auteur](#auteur)
-17. [Sources](#sources)
+14. [FAQ](#faq)
+15. [Auteur](#auteur)
+16. [Sources](#sources)
 
 ---
 
