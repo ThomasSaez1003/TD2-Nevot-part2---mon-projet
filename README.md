@@ -275,6 +275,7 @@ Un développeur indépendant, seul, passionné par Minecraft.
 ## Auteur
 
 Projet créé par **Thomas**, développeur indépendant et étudiant en BUT Informatique.
+Collaborateur : Eros, Toan.
 
 Réalisé dans le cadre du *TD2 : Langages de balisage léger*.
 
